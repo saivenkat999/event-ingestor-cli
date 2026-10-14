@@ -1,0 +1,5 @@
+{"event_id":"evt-001","timestamp":"2025-01-01T09:00:00Z","source":"orders","payload":{"order_id":101,"status":"created"}}
+{"event_id":"evt-002","timestamp":"2025-01-01T09:01:00Z","source":"payments","payload":{"payment_id":201,"amount":18.5}}
+{"event_id":"evt-003","timestamp":"2025-01-01T09:02:00Z","source":"inventory","payload":{"sku":"SKU-3","available":12}}
+{"event_id":"evt-004","timestamp":"2025-01-01T09:03:00Z","source":"orders","payload":{"order_id":104,"status":"shipped"}}
+{"event_id":"evt-005","timestamp":"2025-01-01T09:04:00Z","source":"payments","payload":{"payment_id":205,"amount":42.0}}
